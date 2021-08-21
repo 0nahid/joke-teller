@@ -1,2 +1,2 @@
 # joke-teller
-<a href="http://> Live Link </a>
+<a href="https://0nahid.github.io/joke-teller/> Live Link </a>
